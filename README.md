@@ -60,3 +60,6 @@ Command Prompt / Terminal / Shell for running the tool
 
 🚀 Contributing
 We welcome contributions! If you have an idea for a new feature, want to fix bugs, or simply want to improve the code, feel free to submit a Pull Request!
+
+# ⚠️⚠️⚠️ Attention 
+# Some Antivirus tools block this as TROJAN even mine did , if you want to use this precompiled you can use otherwise just dont do , or see the source code and compile yourself !!!
